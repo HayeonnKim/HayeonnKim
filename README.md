@@ -28,4 +28,4 @@
   **삼성 청년 소프트웨어 아카데미 (SSAFY) 11기** (2024.01 ~ 2024.12)  
   **고려대학교 국어교육과 졸업**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=007fff&section=footer&height
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007fff&section=footer&height=150" />
