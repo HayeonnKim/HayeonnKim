@@ -24,6 +24,7 @@
 ## 🎯 Projects
   **키워드 기반 영화 추천 커뮤니티 Duck9**
   > [키워드 기반 영화 커뮤니티 DUCK9]
+  <br/>
   **AI 기반 맞춤형 스타일링 플랫폼 OZZ**
   > [SSAFY 11기 공통 우수 프로젝트 - 옷짱:OZZ](https://github.com/doongyeop/OZZ)
 
