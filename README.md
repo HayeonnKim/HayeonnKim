@@ -19,13 +19,18 @@
   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
   ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)
 
+
+
 ## 🎯 Projects
-### 키워드 기반 영화 추천 서비스 Duck9
-### AI 기반 맞춤형 스타일링 플랫폼 OZZ
-> [SSAFY 11기 공통 우수 프로젝트 - 옷짱:OZZ](https://github.com/doongyeop/OZZ)
+  **키워드 기반 영화 추천 서비스 Duck9**
+  **AI 기반 맞춤형 스타일링 플랫폼 OZZ**
+  > [SSAFY 11기 공통 우수 프로젝트 - 옷짱:OZZ](https://github.com/doongyeop/OZZ)
+
+
 
 ## 🎓 Education
   **삼성 청년 소프트웨어 아카데미 (SSAFY) 11기** (2024.01 ~ 2024.12)  
   **고려대학교 국어교육과 졸업**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=007fff&section=footer&height=150" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007fff&section=footer&height=120" />
